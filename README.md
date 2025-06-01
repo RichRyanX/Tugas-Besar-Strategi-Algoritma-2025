@@ -11,3 +11,18 @@ Algoritma greedy merupakan salah satu pendekatan dalam menyelesaikan masalah opt
 * Yarn: npm install --global yarn
 * Python 3.7+ (https://www.python.org/downloads/)
 * Dependencies: colorama, requests (sudah termasuk dalam requirements.txt)
+# Running Bot Engine
+1. Node.js (https://nodejs.org/en)
+2. Docker desktop (https://www.docker.com/products/docker-desktop/)
+3. Yarn npm install --global yarn Gunakan cmd/command prompt bawaan device -Download source code (.zip) pada (https://github.com/haziqam/tubes1-IF2211-game-engine/releases/tag/v1.1.0)
+4. Ekstrak file zip tersebut, lalu buka file lewat VSCode -Buka terminal di VSCode lalu ganti terminal Powershell(default) ke Command Prompt
+5. Install dependencies menggunakan Yarn yarn
+6. Setup default environment variable dengan menjalankan script berikut scripts/copy-env.bat (untuk windows) chmod +x ./scripts/copy-env.sh./scripts/copy-env.sh (untuk linux/macOS)
+7. Buka docker dekstop, lalu buka terminal docker
+8. Jalankan command berikut
+9. docker compose up
+10. d database
+11. scripts/setup-db-prisma.bat (untuk windows) chmod +x ./scripts/setup-db-prisma.sh./scripts/setup-db-prisma.sh
+12. Balik lagi ke terminal di VSCode, lalu lakukan Build npm run build
+13. Setelah itu start game npm run start
+14. Buka link di browser http://localhost:8082/
