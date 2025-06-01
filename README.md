@@ -39,3 +39,7 @@ Algoritma greedy merupakan salah satu pendekatan dalam menyelesaikan masalah opt
 10. name=your_name
 11. password=your_password
 12. team etimo
+# Author
+1. Dhian Adi Nugroho (121140055)
+2. Ryanda Aditya Irawan (123140144)
+3. Muhammad Arkan Saktiawan (123140166)
