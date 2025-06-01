@@ -7,3 +7,7 @@ Algoritma greedy merupakan salah satu pendekatan dalam menyelesaikan masalah opt
 Algoritma greedy merupakan salah satu pendekatan dalam menyelesaikan masalah optimasi dengan cara melakukan pemilihan secara lokal terbaik pada setiap langkah dengan harapan akan menghasilkan solusi global yang optimal. Pendekatan ini bersifat iteratif, di mana pada setiap langkah algoritma memilih elemen yang tampak paling menguntungkan saat itu tanpa meninjau keseluruhan ruang solusi. Algoritma ini bekerja secara progresif, membangun solusi secara bertahap, dan setiap keputusan yang diambil bersifat final dan tidak dapat diubah di kemudian hari.
 # System Requirements
 * Node.js (https://nodejs.org/en)
+* Docker Desktop (https://www.docker.com/products/docker-desktop/)
+* Yarn: npm install --global yarn
+* Python 3.7+ (https://www.python.org/downloads/)
+* Dependencies: colorama, requests (sudah termasuk dalam requirements.txt)
