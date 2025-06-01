@@ -26,3 +26,16 @@ Algoritma greedy merupakan salah satu pendekatan dalam menyelesaikan masalah opt
 12. Balik lagi ke terminal di VSCode, lalu lakukan Build npm run build
 13. Setelah itu start game npm run start
 14. Buka link di browser http://localhost:8082/
+# Running Bot 
+1. Python (https://www.python.org/downloads/)
+2. Download source code (.zip) pada (https://github.com/haziqam/tubes1-IF2211-bot-starter-pack/releases/tag/v1.0.1)
+3. Ekstrak zip, lalu buka folder lewat VSCode
+4. Buka terminal lewat VSCode lalu ganti terminal ke Command Prompt
+5. Install dependencies menggunakan pip pip install
+6. r requirements.txt
+7. Setalah itu bot bisa dijalankan dengan command python main.py
+8. logic Random
+9. email=your_email@example.com
+10. name=your_name
+11. password=your_password
+12. team etimo
